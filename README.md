@@ -2,9 +2,10 @@
  
 ### **SISTEM MANAJEMEN KOLEKSI BARANG ANTIK**
 
-**AntikAesthetic 🔎⏳**
+   **AntikAesthetic 🔎⏳**
  ---------------------------------------------------------------------
 ## **Disusun Oleh**
 
 **Maifariza Aulia Dyas - 2409116032**
+
 Sistem Informasi - A - 2024
