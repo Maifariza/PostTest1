@@ -2,10 +2,10 @@
 
 Sistem Informasi - A - 2024
  
-**SISTEM MANAJEMEN KOLEKSI BARANG ANTIK**
+### **SISTEM MANAJEMEN KOLEKSI BARANG ANTIK**
 
-## **AntikAesthetic 🔎⏳**
+**AntikAesthetic 🔎⏳**
  ---------------------------------------------------------------------
-### Disusun Oleh
+### **Disusun Oleh**
 
-**Maifariza Aulia Dyas 2409116032**
+**Maifariza Aulia Dyas - 2409116032**
