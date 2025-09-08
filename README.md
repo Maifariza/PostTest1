@@ -6,7 +6,7 @@
 
                                                                 
 
-  **Maifariza Aulia Dyas - 2409116032**                         
+**Maifariza Aulia Dyas - 2409116032**                         
 
                                                                 
 
@@ -18,7 +18,7 @@
  
 ### **SISTEM MANAJEMEN KOLEKSI BARANG ANTIK**
 
-   **AntikAesthetic 🔎⏳**
+  <h1 align="center*>**AntikAesthetic 🔎⏳**/h1>
  ---------------------------------------------------------------------
 
    AntikAesthetic adalah program untuk menyimpan koleksi barang antik yang dibuat menggunakan bahasa pemrograman Java.   Program ini dirancang untuk membantu pengguna dalam mengelola data koleksi barang antik agar lebih teratur, rapi, dan mudah diakses. Dengan adanya program ini, proses pencatatan barang antik tidak lagi dilakukan secara manual, tetapi sudah terkomputerisasi sehingga lebih efisien dan minim kesalahan.
@@ -51,11 +51,13 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
 
 <img width="1266" height="583" alt="Screenshot 2025-09-08 125848" src="https://github.com/user-attachments/assets/91e9b339-ada3-40bd-9990-b05a013449d8" />
 
-Ketika pengguna memilih menu nomor 2, yaitu Tampilkan Semua Barang, program akan menampilkan seluruh koleksi barang antik yang tersimpan dalam sistem. Data ditampilkan dalam bentuk tabel dengan kolom-kolom yang sudah terstruktur, meliputi ID, Nama, Kategori, Asal, Tahun Pembuatan, Material, Kondisi, Sumber Perolehan, dan Harga.
+Jika pengguna memilih opsi 2 pada menu utama, maka program akan diarahkan ke fitur Tampilkan Semua Barang. Pada bagian ini, sistem akan menampilkan seluruh koleksi barang dari AntikAesthetic yang sudah tersimpan dalam database program. Data ditampilkan dalam bentuk tabel agar lebih terstruktur dan mudah dipahami.
 
-Tabel ini membantu pengguna melihat informasi barang secara menyeluruh dalam satu tampilan, sehingga lebih mudah untuk membaca dan membandingkan data antar barang. Setiap baris mewakili satu objek barang antik, sedangkan ID digunakan sebagai penanda unik agar data mudah diidentifikasi ketika ingin diperbarui atau dihapus.
+Tabel tersebut berisi informasi penting yang dibagi ke dalam beberapa kolom, yaitu ID, Nama, Kategori, Asal, Tahun Pembuatan, Material, Kondisi, Sumber Perolehan, dan Harga. Setiap baris dalam tabel mewakili satu objek barang antik, sementara ID berfungsi sebagai penanda unik sehingga data dapat dengan mudah diidentifikasi saat ingin diperbarui atau dihapus.
 
-Dengan format tabel ini, program AntikAesthetic mampu menampilkan data koleksi secara rapi dan informatif, sehingga pengguna dapat mengelola dan memahami koleksi barang antiknya dengan lebih mudah.
+Melalui tampilan ini, pengguna dapat dengan mudah melihat keseluruhan koleksi barang antik hanya dalam satu layar. Format tabel yang rapi membuat data lebih mudah dibaca, dipahami, dan dibandingkan antar barang. Hal ini membantu pengguna ketika ingin menilai kondisi, harga, atau asal-usul barang tertentu secara cepat.
+
+Setelah seluruh data ditampilkan, program akan memberikan instruksi kepada pengguna untuk menekan tombol Enter agar dapat melanjutkan ke langkah berikutnya. Tekanan tombol Enter ini akan mengembalikan pengguna ke menu utama, sehingga pengguna dapat memilih kembali menu yang lain sesuai kebutuhan, misalnya menambah barang, memperbarui, menghapus, atau keluar dari program.
 
 # Jika memilih opsi 3 maka akan diarahkan ke Update Barang
 
