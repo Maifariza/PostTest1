@@ -111,6 +111,23 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
 
 # Jika memilih opsi 5 maka akan diarahkan ke Cari Barang
 
+### Cari Berdasarkan Nama Barang
+
+<img width="985" height="160" alt="Screenshot 2025-09-08 135635" src="https://github.com/user-attachments/assets/c4ed5f05-4cb8-4bc5-b222-006758a175b3" />
+
+### Cari Berdasarkan Kategori
+
+<img width="982" height="164" alt="Screenshot 2025-09-08 140013" src="https://github.com/user-attachments/assets/1bf6b9e3-8601-4e41-b86a-86120259a3b4" />
+
+### Cari Berdsarkan Asal
+
+<img width="983" height="160" alt="Screenshot 2025-09-08 140157" src="https://github.com/user-attachments/assets/fd2e8cac-0609-4615-a806-3ff43b1d94de" />
+
+### Input Kata Kunci yang tidak terdaftar
+
+<img width="388" height="119" alt="Screenshot 2025-09-08 140255" src="https://github.com/user-attachments/assets/c3013074-2505-4453-ab92-17a4e1cbfbc2" />
+
+
 # Jika memilih opsi 6 maka akan diarahkan Keluar Program AntikAesthetic
 
 # Jika user input selain opsi 1-6
