@@ -93,15 +93,26 @@ Apabila pengguna mencoba menambahkan barang baru namun tidak mengisi data pada k
 
 <img width="552" height="311" alt="Screenshot 2025-09-08 134932" src="https://github.com/user-attachments/assets/e332eafe-cdc4-4199-9ef0-b3d102827924" />
 
+Ketika pengguna memilih opsi 3 pada menu utama, maka program akan diarahkan ke fitur Update Barang.
+Pada bagian ini, sistem meminta pengguna untuk memasukkan ID dari barang yang ingin diperbarui. ID ini digunakan sebagai penanda unik setiap barang dalam koleksi.
+
+Setelah ID dimasukkan, program akan menampilkan form dengan data lama sebagai referensi. Pengguna dapat mengosongkan input (menekan Enter) jika ingin mempertahankan nilai lama, atau mengetikkan data baru untuk mengganti informasi.
+
+Misalnya, pengguna ingin memperbarui barang dengan ID 1 (Vas Dinasti Ming). Program akan menampilkan data lama seperti nama barang, kategori, asal, tahun pembuatan, material, kondisi, sumber perolehan, dan harga. Pengguna bisa mengubah salah satu atau beberapa data, contohnya kondisi dari “Baik” menjadi “Rusak”. Setelah menekan Enter, program akan menyimpan perubahan tersebut dan menampilkan pesan “Data ID 1 berhasil diperbarui”.
+
 ### Pengecekan Ulang
 
 <img width="1012" height="448" alt="Screenshot 2025-09-08 135110" src="https://github.com/user-attachments/assets/4fd7c124-d5a7-4b33-a555-667234657b95" />
 
+Setelah proses update selesai, pengguna dapat melihat daftar koleksi untuk memastikan bahwa data sudah diperbarui sesuai dengan input terbaru dengan ketik opsi 2. Tabel akan menampilkan kondisi data terbaru dengan informasi yang sudah diperbarui.
 
 ### Jika Input ID yang tidak terdaftar
 
 <img width="455" height="77" alt="Screenshot 2025-09-08 135329" src="https://github.com/user-attachments/assets/9308cac3-af87-40fb-91da-8614c6de7dc4" />
 
+Apabila pengguna memasukkan ID yang tidak ada di dalam koleksi, maka program akan memberikan pesan peringatan seperti pada gambar diatas. 
+
+Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dimasukkan salah atau tidak tersedia.
 
 # Jika memilih opsi 4 maka akan diarahkan ke Hapus Barang
 
