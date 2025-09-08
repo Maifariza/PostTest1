@@ -155,6 +155,27 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="388" height="119" alt="Screenshot 2025-09-08 140255" src="https://github.com/user-attachments/assets/c3013074-2505-4453-ab92-17a4e1cbfbc2" />
 
+# Jika memilih opsi 5 maka akan diarahkan ke Cari Barang
+
+## Kategori
+
+<img width="852" height="263" alt="Screenshot 2025-09-08 184519" src="https://github.com/user-attachments/assets/b28a84f8-ef17-479b-8c00-51bc1a5cab11" />
+
+
+### Inputan tidak sesuai
+
+<img width="344" height="204" alt="Screenshot 2025-09-08 184024" src="https://github.com/user-attachments/assets/12c836ac-395e-4407-aabc-bcbb00f111e6" />
+
+
+## Kondisi
+
+<img width="872" height="297" alt="Screenshot 2025-09-08 184615" src="https://github.com/user-attachments/assets/559fc944-9810-419f-b121-1601aeb193db" />
+
+
+## Tahun
+
+## Sumber
+
 
 # Jika memilih opsi 7 maka akan diarahkan Keluar Program AntikAesthetic
 
