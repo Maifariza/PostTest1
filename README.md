@@ -142,4 +142,5 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
 
 # Jika user input selain opsi 1-6
 
+<img width="527" height="312" alt="Screenshot 2025-09-08 141010" src="https://github.com/user-attachments/assets/02fd08a0-f0a5-4481-b273-469ff2c961e7" />
 
