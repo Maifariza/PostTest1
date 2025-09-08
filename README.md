@@ -25,3 +25,7 @@ Pada awal program, akan ditampilkan menu utama Toko AntikAesthetic.
 # Jika memilih opsi 5 maka akan diarahkan ke Cari Barang
 
 # Jika memilih opsi 6 maka akan diarahkan Keluar Program AntikAesthetic
+
+# Jika user input selain opsi 1-6
+
+
