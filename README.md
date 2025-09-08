@@ -49,7 +49,7 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
 
    5. Cari Barang, memudahkan pengguna menemukan data barang tertentu dengan memasukkan kata kunci pencarian seperti nama/kategori/asal barang yang ingin dicari.
 
-   6.Filter Barang, digunakan untuk menyaring data koleksi berdasarkan kriteria tertentu. Pengguna dapat memilih filter berdasarkan kategori, kondisi, tahun pembuatan, atau sumber perolehan. Dengan filter ini, pengguna bisa lebih fokus pada kelompok barang yang sesuai kebutuhan, misalnya hanya menampilkan barang dari kategori tertentu atau barang yang berasal dari tahun tertentu.
+  6. Filter Barang, digunakan untuk menyaring data koleksi berdasarkan kriteria tertentu. Pengguna dapat memilih filter berdasarkan kategori, kondisi, tahun pembuatan, atau sumber perolehan. Dengan filter ini, pengguna bisa lebih fokus pada kelompok barang yang sesuai kebutuhan, misalnya hanya menampilkan barang dari kategori tertentu atau barang yang berasal dari tahun tertentu.
    
    7. Keluar, digunakan untuk menutup program. Sebelum benar-benar keluar, sistem akan menampilkan konfirmasi agar tidak terjadi kesalahan.
 
@@ -180,7 +180,12 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 ## Tahun
 
+<img width="858" height="276" alt="Screenshot 2025-09-08 220736" src="https://github.com/user-attachments/assets/934c90fc-26a7-4291-b617-a99fecfe2600" />
+
+
 ## Sumber
+
+<img width="857" height="308" alt="Screenshot 2025-09-08 220938" src="https://github.com/user-attachments/assets/df5770dd-3267-4ce8-a487-24d495403959" />
 
 
 # Jika memilih opsi 7 maka akan diarahkan Keluar Program AntikAesthetic
