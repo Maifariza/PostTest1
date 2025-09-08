@@ -31,7 +31,7 @@
 
 # Menu Utama AntikAesthetic
 
-<img width="643" height="266" alt="Screenshot 2025-09-08 112358" src="https://github.com/user-attachments/assets/f495068e-a9ea-4d29-bec4-bccf41e6b200" />
+<img width="463" height="210" alt="Screenshot 2025-09-08 180256" src="https://github.com/user-attachments/assets/ba60d90d-2b91-4424-8088-bc6889210a94" />
 
 Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic. Menu ini berfungsi sebagai menu utama untuk mengakses seluruh fitur yang tersedia. Terdapat enam pilihan utama yang bisa dipilih sesuai kebutuhan.
 
@@ -156,19 +156,19 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 <img width="388" height="119" alt="Screenshot 2025-09-08 140255" src="https://github.com/user-attachments/assets/c3013074-2505-4453-ab92-17a4e1cbfbc2" />
 
 
-# Jika memilih opsi 6 maka akan diarahkan Keluar Program AntikAesthetic
+# Jika memilih opsi 7 maka akan diarahkan Keluar Program AntikAesthetic
 
 ### Jika memilih "y"
 
-<img width="536" height="364" alt="Screenshot 2025-09-08 140818" src="https://github.com/user-attachments/assets/b8023010-77b8-4195-9120-5d1dd2227c37" />
+<img width="470" height="306" alt="Screenshot 2025-09-08 180548" src="https://github.com/user-attachments/assets/d1c54c40-7ebd-4dec-9174-c716bec96ffa" />
 
 
 ### Jika memilih "n"
 
-<img width="532" height="342" alt="Screenshot 2025-09-08 140549" src="https://github.com/user-attachments/assets/93c59bde-e1c5-4224-9fd5-d2ceb9c0d41c" />
+<img width="469" height="267" alt="Screenshot 2025-09-08 180501" src="https://github.com/user-attachments/assets/b048a346-3760-48af-a366-ccae8644978f" />
 
 
-# Jika user input selain opsi 1-6
+# Jika user input selain opsi 1-7
 
-<img width="527" height="312" alt="Screenshot 2025-09-08 141010" src="https://github.com/user-attachments/assets/02fd08a0-f0a5-4481-b273-469ff2c961e7" />
+<img width="462" height="268" alt="Screenshot 2025-09-08 180633" src="https://github.com/user-attachments/assets/7ed7305e-44e1-4533-8f4b-6bc7c15178b5" />
 
