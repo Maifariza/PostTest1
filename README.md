@@ -130,6 +130,16 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
 
 # Jika memilih opsi 6 maka akan diarahkan Keluar Program AntikAesthetic
 
+### Jika memilih "y"
+
+<img width="536" height="364" alt="Screenshot 2025-09-08 140818" src="https://github.com/user-attachments/assets/b8023010-77b8-4195-9120-5d1dd2227c37" />
+
+
+### Jika memilih "n"
+
+<img width="532" height="342" alt="Screenshot 2025-09-08 140549" src="https://github.com/user-attachments/assets/93c59bde-e1c5-4224-9fd5-d2ceb9c0d41c" />
+
+
 # Jika user input selain opsi 1-6
 
 
