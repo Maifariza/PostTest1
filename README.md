@@ -39,6 +39,14 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
 
 # Jika memilih opsi 2 maka akan diarahkan ke Tampilkan Barang
 
+<img width="1266" height="583" alt="Screenshot 2025-09-08 125848" src="https://github.com/user-attachments/assets/91e9b339-ada3-40bd-9990-b05a013449d8" />
+
+Ketika pengguna memilih menu nomor 2, yaitu Tampilkan Semua Barang, program akan menampilkan seluruh koleksi barang antik yang tersimpan dalam sistem. Data ditampilkan dalam bentuk tabel dengan kolom-kolom yang sudah terstruktur, meliputi ID, Nama, Kategori, Asal, Tahun Pembuatan, Material, Kondisi, Sumber Perolehan, dan Harga.
+
+Tabel ini membantu pengguna melihat informasi barang secara menyeluruh dalam satu tampilan, sehingga lebih mudah untuk membaca dan membandingkan data antar barang. Setiap baris mewakili satu objek barang antik, sedangkan ID digunakan sebagai penanda unik agar data mudah diidentifikasi ketika ingin diperbarui atau dihapus.
+
+Dengan format tabel ini, program AntikAesthetic mampu menampilkan data koleksi secara rapi dan informatif, sehingga pengguna dapat mengelola dan memahami koleksi barang antiknya dengan lebih mudah.
+
 # Jika memilih opsi 3 maka akan diarahkan ke Update Barang
 
 # Jika memilih opsi 4 maka akan diarahkan ke Hapus Barang
