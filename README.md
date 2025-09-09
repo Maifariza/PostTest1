@@ -29,13 +29,11 @@
    
    Fitur pencarian tersedia untuk memudahkan pengguna menemukan barang tertentu hanya dengan memasukkan kata kunci, baik dari nama, kategori, maupun asal barang. 
 
-   Selain itu, fitur filter ditambahkan agar pengguna bisa menyaring data sesuai kriteria tertentu. Pada menu filter, pengguna dapat memilih untuk menampilkan barang berdasarkan kategori, kondisi, tahun pembuatan, atau sumber perolehan. Misalnya, pengguna hanya ingin melihat barang dengan kondisi “Baik” atau koleksi yang berasal dari tahun tertentu, maka fitur filter akan langsung menampilkan data yang sesuai tanpa harus menelusuri satu per satu.
-
    Setiap barang antik yang disimpan dalam sistem digambarkan sebagai sebuah objek dengan atribut yang cukup lengkap, mulai dari ID unik, nama barang, kategori, asal, tahun pembuatan, material, kondisi, sumber perolehan, hingga harga perolehan. Seluruh data ini dikelola menggunakan struktur ArrayList, sehingga penyimpanan menjadi lebih fleksibel dan juga memudahkan proses manipulasi data seperti menambah, menampilkan, memperbarui, maupun menghapus.
 
 # Menu Utama AntikAesthetic
 
-<img width="463" height="210" alt="Screenshot 2025-09-08 180256" src="https://github.com/user-attachments/assets/ba60d90d-2b91-4424-8088-bc6889210a94" />
+<img width="468" height="203" alt="Screenshot 2025-09-09 130453" src="https://github.com/user-attachments/assets/d3f33513-9c4f-46f7-b978-f377ab2f1dfd" />
 
 Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic. Menu ini berfungsi sebagai menu utama untuk mengakses seluruh fitur yang tersedia. Terdapat enam pilihan utama yang bisa dipilih sesuai kebutuhan.
 
@@ -48,10 +46,8 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
    4. Hapus Barang, menghapus data barang dari koleksi berdasarkan ID barang yang ingin dihapus.
 
    5. Cari Barang, memudahkan pengguna menemukan data barang tertentu dengan memasukkan kata kunci pencarian seperti nama/kategori/asal barang yang ingin dicari.
-
-  6. Filter Barang, digunakan untuk menyaring data koleksi berdasarkan kriteria tertentu. Pengguna dapat memilih filter berdasarkan kategori, kondisi, tahun pembuatan, atau sumber perolehan. Dengan filter ini, pengguna bisa lebih fokus pada kelompok barang yang sesuai kebutuhan, misalnya hanya menampilkan barang dari kategori tertentu atau barang yang berasal dari tahun tertentu.
    
-   7. Keluar, digunakan untuk menutup program. Sebelum benar-benar keluar, sistem akan menampilkan konfirmasi agar tidak terjadi kesalahan.
+   6. Keluar, digunakan untuk menutup program. Sebelum benar-benar keluar, sistem akan menampilkan konfirmasi agar tidak terjadi kesalahan.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
