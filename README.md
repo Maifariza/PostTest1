@@ -136,13 +136,17 @@ Saat pengguna mencoba mengetik "iya" di kolom ID, program menolak input tersebut
 
 Ketika pengguna memilih menu 4, maka akan masuk ke fitur Hapus Barang. Di sini pengguna bisa menghapus data dengan memasukkan ID barang. Setelah ID diketik, sistem akan mengecek ketersediaannya. Jika ID ditemukan, program menampilkan konfirmasi “Yakin hapus ID ... (y/n)?” .
 
+### Jika Input "n"
+
 <img width="326" height="192" alt="Screenshot 2025-09-08 133622" src="https://github.com/user-attachments/assets/46f0c34a-7f09-476b-a2ca-face02704ecc" />
 
-Jika pengguna ketik y, maka akan muncul pesan bahwa data itu sudah dihapus.
+Jika pengguna ketik n, Tidak ada data yang berubah dan pengguna bisa menekan Enter untuk kembali ke menu utama.
+
+### Jika Input "y"
 
 <img width="359" height="168" alt="Screenshot 2025-09-08 133649" src="https://github.com/user-attachments/assets/70f77aae-ba2d-493c-9a63-7b00666220d7" />
 
-Jika pengguna ketik n, Tidak ada data yang berubah dan pengguna bisa menekan Enter untuk kembali ke menu utama.
+Jika pengguna ketik y, maka akan muncul pesan bahwa data itu sudah dihapus.
 
 ### Jika Input ID yang tidak terdaftar
 
