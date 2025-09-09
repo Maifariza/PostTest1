@@ -162,9 +162,16 @@ Jika yang dimasukkan bukan berupa angka tapi huruf, sistem menolak dengan pesan 
 
 # **Jika memilih opsi 5 maka akan diarahkan ke Cari Barang**
 
+<img width="344" height="71" alt="Screenshot 2025-09-09 151206" src="https://github.com/user-attachments/assets/b4a9184a-472e-4655-a79b-e7dfdfc68fd1" />
+
+Fitur ini dipakai untuk menemukan data dengan cepat. Cukup ketik kata kunci di kolom input, lalu sistem akan mencari yang mengandung kata tersebut pada Nama, Kategori, atau Asal. 
+
+
 ### Cari Berdasarkan Nama Barang
 
 <img width="985" height="160" alt="Screenshot 2025-09-08 135635" src="https://github.com/user-attachments/assets/c4ed5f05-4cb8-4bc5-b222-006758a175b3" />
+
+Pengguna ingin mencari 
 
 ### Cari Berdasarkan Kategori
 
