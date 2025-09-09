@@ -228,10 +228,12 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 # **Jika user input selain opsi 1-7**
 
-<img width="462" height="268" alt="Screenshot 2025-09-08 180633" src="https://github.com/user-attachments/assets/7ed7305e-44e1-4533-8f4b-6bc7c15178b5" />
+<img width="457" height="254" alt="Screenshot 2025-09-09 125912" src="https://github.com/user-attachments/assets/67ec9884-670c-462b-8dd6-cbb210c67051" />
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # **Jika user input huruf pada Menu Utama**
 
-<img width="464" height="237" alt="Screenshot 2025-09-09 091913" src="https://github.com/user-attachments/assets/7079c095-1da0-4c76-9427-826254dbc458" />
+
+<img width="465" height="250" alt="Screenshot 2025-09-09 125746" src="https://github.com/user-attachments/assets/26387c70-961b-4c14-b291-2bef5e6d4572" />
