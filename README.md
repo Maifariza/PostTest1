@@ -126,6 +126,8 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="465" height="284" alt="Screenshot 2025-09-09 130620" src="https://github.com/user-attachments/assets/1b0370d6-d9fb-42b0-a154-78e2f6df9f3e" />
 
+Saat pengguna mencoba mengetik "iya" di kolom ID, program menolak input tersebut dan menampilkan peringatan “Harus berupa angka".
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 # **Jika memilih opsi 4 maka akan diarahkan ke Hapus Barang**
@@ -198,7 +200,7 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **Jika user input selain opsi 1-7**
+# **Jika user input selain opsi 1-6**
 
 <img width="457" height="254" alt="Screenshot 2025-09-09 125912" src="https://github.com/user-attachments/assets/67ec9884-670c-462b-8dd6-cbb210c67051" />
 
