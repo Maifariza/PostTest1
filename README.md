@@ -216,6 +216,7 @@ Setelah itu, pengguna akan diminta mengetik ulang sampai mengisi kata kunci yang
 
 <img width="469" height="283" alt="Screenshot 2025-09-09 130223" src="https://github.com/user-attachments/assets/7b4a8cb2-1fb8-4a97-a604-6ede66c4fb95" />
 
+Proses keluar dibatalkan. Program menampilkan pesan “<< Kembali ke menu utama AntikAesthetic >>” dan pengguna kembali ke menu utama.
 
 ### Jika memilih selain "y" dan "n"
 
@@ -227,6 +228,9 @@ Setelah itu, pengguna akan diminta mengetik ulang sampai mengisi kata kunci yang
 # **Jika user input selain opsi 1-6**
 
 <img width="457" height="254" alt="Screenshot 2025-09-09 125912" src="https://github.com/user-attachments/assets/67ec9884-670c-462b-8dd6-cbb210c67051" />
+
+Menu utama hanya menerima angka 1–6.
+Jika pengguna memasukkan angka di luar rentang itu atau karakter lain, sistem menampilkan “Pilihan tidak valid.” kemudian meminta menekan Enter untuk kembali ke menu.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
