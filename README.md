@@ -192,10 +192,15 @@ Pengguna ingin mencari berdasarkan asal barang. Di kolom Kata kunci, pengguna me
 
 <img width="388" height="119" alt="Screenshot 2025-09-08 140255" src="https://github.com/user-attachments/assets/c3013074-2505-4453-ab92-17a4e1cbfbc2" />
 
+Jika kamu mengetik kata kunci yang tidak cocok dengan data apa pun, sistem akan menampilkan pesan “Oops.. Tidak ada hasil untuk: ...”
+
 ### Inputan Kosong
 
 <img width="341" height="113" alt="Screenshot 2025-09-09 094143" src="https://github.com/user-attachments/assets/a0f53bdb-25e3-42ca-841c-effd5c0cdc83" />
 
+Jika kolom Kata kunci dibiarkan kosong, sistem akan menolak dan menampilkan pesan “Input tidak boleh kosong”.
+
+Setelah itu, pengguna akan diminta mengetik ulang sampai mengisi kata kunci yang valid.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
