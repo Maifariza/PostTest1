@@ -53,6 +53,8 @@ Pada awal program, pengguna akan langsung diarahkan ke Menu Utama AntikAesthetic
    
    7. Keluar, digunakan untuk menutup program. Sebelum benar-benar keluar, sistem akan menampilkan konfirmasi agar tidak terjadi kesalahan.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Jika memilih opsi 1 maka akan diarahkan ke Tambah Barang
 
 <img width="543" height="218" alt="Screenshot 2025-09-08 133146" src="https://github.com/user-attachments/assets/3c28606b-1806-4aa2-a829-413c76e1bfce" />
@@ -82,6 +84,7 @@ Lalu untuk melihat daftar koleksi yang telah ditambahkan, user ketik 2. Di bagia
 
 Apabila pengguna mencoba menambahkan barang baru namun tidak mengisi data pada kolom yang diminta, maka program akan menampilkan pesan peringatan. Misalnya, ketika pengguna menekan Enter tanpa mengetikkan nama barang, sistem akan menampilkan pesan “Input tidak boleh kosong”.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jika memilih opsi 2 maka akan diarahkan ke Tampilkan Barang
 
@@ -95,6 +98,7 @@ Apabila pengguna mencoba menambahkan barang baru namun tidak mengisi data pada k
 
   Setelah seluruh data ditampilkan, program akan memberikan instruksi kepada pengguna untuk menekan tombol Enter agar dapat melanjutkan ke langkah berikutnya. Tekanan tombol Enter ini akan mengembalikan pengguna ke menu utama, sehingga pengguna dapat memilih kembali menu yang lain sesuai kebutuhan, misalnya menambah barang, memperbarui, menghapus, atau keluar dari program.
   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jika memilih opsi 3 maka akan diarahkan ke Update Barang
 
@@ -126,6 +130,7 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="467" height="293" alt="Screenshot 2025-09-09 092410" src="https://github.com/user-attachments/assets/26976cae-ca43-44e8-8f66-b351d3091a0d" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 # Jika memilih opsi 4 maka akan diarahkan ke Hapus Barang
 
@@ -149,6 +154,7 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="334" height="183" alt="Screenshot 2025-09-08 134318" src="https://github.com/user-attachments/assets/c5db5fce-efd5-487f-a161-bdeacda6c84b" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jika memilih opsi 5 maka akan diarahkan ke Cari Barang
 
@@ -167,6 +173,8 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 ### Input Kata Kunci yang tidak terdaftar
 
 <img width="388" height="119" alt="Screenshot 2025-09-08 140255" src="https://github.com/user-attachments/assets/c3013074-2505-4453-ab92-17a4e1cbfbc2" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jika memilih opsi 6 maka akan diarahkan ke Filter Barang
 
@@ -194,6 +202,7 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="857" height="308" alt="Screenshot 2025-09-08 220938" src="https://github.com/user-attachments/assets/df5770dd-3267-4ce8-a487-24d495403959" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jika memilih opsi 7 maka akan diarahkan Keluar Program AntikAesthetic
 
@@ -210,10 +219,13 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="459" height="293" alt="Screenshot 2025-09-09 081507" src="https://github.com/user-attachments/assets/d37b829f-6487-43b5-93ef-7014daf989c8" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jika user input selain opsi 1-7
 
 <img width="462" height="268" alt="Screenshot 2025-09-08 180633" src="https://github.com/user-attachments/assets/7ed7305e-44e1-4533-8f4b-6bc7c15178b5" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jika user input huruf pada Menu Utama
 
