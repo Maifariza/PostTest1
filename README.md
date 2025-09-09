@@ -116,7 +116,7 @@ Setelah proses update selesai, pengguna dapat melihat daftar koleksi untuk memas
 
 ### Jika Input ID yang tidak terdaftar
 
-<img width="455" height="77" alt="Screenshot 2025-09-08 135329" src="https://github.com/user-attachments/assets/9308cac3-af87-40fb-91da-8614c6de7dc4" />
+<img width="402" height="102" alt="Screenshot 2025-09-09 130728" src="https://github.com/user-attachments/assets/655ae614-a723-4fb4-ad74-ec7dc907345f" />
 
 Apabila pengguna memasukkan ID yang tidak ada di dalam koleksi, maka program akan memberikan pesan peringatan seperti pada gambar diatas. 
 
@@ -124,7 +124,7 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 ### Jika Input huruf
 
-<img width="467" height="293" alt="Screenshot 2025-09-09 092410" src="https://github.com/user-attachments/assets/26976cae-ca43-44e8-8f66-b351d3091a0d" />
+<img width="465" height="284" alt="Screenshot 2025-09-09 130620" src="https://github.com/user-attachments/assets/1b0370d6-d9fb-42b0-a154-78e2f6df9f3e" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
  
