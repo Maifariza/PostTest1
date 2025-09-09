@@ -132,25 +132,31 @@ Saat pengguna mencoba mengetik "iya" di kolom ID, program menolak input tersebut
  
 # **Jika memilih opsi 4 maka akan diarahkan ke Hapus Barang**
 
-<img width="349" height="147" alt="Screenshot 2025-09-08 133548" src="https://github.com/user-attachments/assets/8dd8b23b-c93c-4a12-9064-c874454be095" />
-
-
 <img width="336" height="138" alt="Screenshot 2025-09-08 133604" src="https://github.com/user-attachments/assets/90911f05-750a-45dc-865a-bf06fb226e9f" />
 
+Ketika pengguna memilih menu 4, maka akan masuk ke fitur Hapus Barang. Di sini pengguna bisa menghapus data dengan memasukkan ID barang. Setelah ID diketik, sistem akan mengecek ketersediaannya. Jika ID ditemukan, program menampilkan konfirmasi “Yakin hapus ID X (y/n)?” .
 
 <img width="326" height="192" alt="Screenshot 2025-09-08 133622" src="https://github.com/user-attachments/assets/46f0c34a-7f09-476b-a2ca-face02704ecc" />
 
+Jika pengguna ketik y, maka akan muncul pesan bahwa data itu sudah dihapus.
 
 <img width="359" height="168" alt="Screenshot 2025-09-08 133649" src="https://github.com/user-attachments/assets/70f77aae-ba2d-493c-9a63-7b00666220d7" />
+
+Jika pengguna ketik n, maka pengguna bisa membatalkan data untuk dihapus dan muncul tulisan “Dibatalkan” yang menandakan data berhasil dihapus. 
 
 ### Jika Input ID yang tidak terdaftar
 
 <img width="329" height="130" alt="Screenshot 2025-09-08 133959" src="https://github.com/user-attachments/assets/280c8281-eecf-4156-ba4f-b9b1d97c000b" />
 
+Jika ID tidak terdaftar, sistem menampilkan “Data dengan ID .. tidak ditemukan.”. 
+
 ### Jika Input ID selain angka
 
 
 <img width="334" height="183" alt="Screenshot 2025-09-08 134318" src="https://github.com/user-attachments/assets/c5db5fce-efd5-487f-a161-bdeacda6c84b" />
+
+Jika yang dimasukkan bukan angka (mis. iya), sistem menolak dengan pesan “Harus berupa angka.”. Setelah itu, tekan Enter untuk kembali ke menu utama.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
