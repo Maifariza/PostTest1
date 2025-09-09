@@ -179,6 +179,8 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 # **Jika memilih opsi 6 maka akan diarahkan Keluar Program AntikAesthetic**
 
+<img width="459" height="194" alt="Screenshot 2025-09-09 131026" src="https://github.com/user-attachments/assets/2bb46f16-1499-4389-ac84-2446c2e5270b" />
+
 ### Jika memilih "y"
 
 <img width="462" height="294" alt="Screenshot 2025-09-09 130258" src="https://github.com/user-attachments/assets/a97dda3e-362e-4a05-ad42-5d8d46a551bd" />
