@@ -192,7 +192,7 @@ Pengguna ingin mencari berdasarkan asal barang. Di kolom Kata kunci, pengguna me
 
 <img width="388" height="119" alt="Screenshot 2025-09-08 140255" src="https://github.com/user-attachments/assets/c3013074-2505-4453-ab92-17a4e1cbfbc2" />
 
-Jika kamu mengetik kata kunci yang tidak cocok dengan data apa pun, sistem akan menampilkan pesan “Oops.. Tidak ada hasil untuk: ...”
+Jika pengguna mengetik kata kunci yang tidak cocok dengan data apa pun, sistem akan menampilkan pesan “Oops.. Tidak ada hasil untuk: ...”
 
 ### Inputan Kosong
 
@@ -206,7 +206,6 @@ Setelah itu, pengguna akan diminta mengetik ulang sampai mengisi kata kunci yang
 
 # **Jika memilih opsi 6 maka akan diarahkan Keluar Program AntikAesthetic**
 
-<img width="459" height="194" alt="Screenshot 2025-09-09 131026" src="https://github.com/user-attachments/assets/2bb46f16-1499-4389-ac84-2446c2e5270b" />
 
 ### Jika memilih "y"
 
@@ -231,8 +230,3 @@ Setelah itu, pengguna akan diminta mengetik ulang sampai mengisi kata kunci yang
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# **Jika user input huruf pada Menu Utama**
-
-
-<img width="465" height="250" alt="Screenshot 2025-09-09 125746" src="https://github.com/user-attachments/assets/26387c70-961b-4c14-b291-2bef5e6d4572" />
