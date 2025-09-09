@@ -210,6 +210,6 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="462" height="268" alt="Screenshot 2025-09-08 180633" src="https://github.com/user-attachments/assets/7ed7305e-44e1-4533-8f4b-6bc7c15178b5" />
 
-# Jika user input angka pada Menu Utama
+# Jika user input huruf pada Menu Utama
 
 <img width="464" height="237" alt="Screenshot 2025-09-09 091913" src="https://github.com/user-attachments/assets/7079c095-1da0-4c76-9427-826254dbc458" />
