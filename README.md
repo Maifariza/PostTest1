@@ -121,6 +121,11 @@ Setelah proses update selesai, pengguna dapat melihat daftar koleksi untuk memas
 Apabila pengguna memasukkan ID yang tidak ada di dalam koleksi, maka program akan memberikan pesan peringatan seperti pada gambar diatas. 
 
 Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dimasukkan salah atau tidak tersedia.
+
+### Jika Input huruf
+
+<img width="467" height="293" alt="Screenshot 2025-09-09 092410" src="https://github.com/user-attachments/assets/26976cae-ca43-44e8-8f66-b351d3091a0d" />
+
  
 # Jika memilih opsi 4 maka akan diarahkan ke Hapus Barang
 
