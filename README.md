@@ -213,16 +213,18 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 ### Jika memilih "y"
 
-<img width="470" height="306" alt="Screenshot 2025-09-08 180548" src="https://github.com/user-attachments/assets/d1c54c40-7ebd-4dec-9174-c716bec96ffa" />
+<img width="462" height="294" alt="Screenshot 2025-09-09 130258" src="https://github.com/user-attachments/assets/a97dda3e-362e-4a05-ad42-5d8d46a551bd" />
 
 
 ### Jika memilih "n"
 
-<img width="469" height="267" alt="Screenshot 2025-09-08 180501" src="https://github.com/user-attachments/assets/b048a346-3760-48af-a366-ccae8644978f" />
+<img width="469" height="283" alt="Screenshot 2025-09-09 130223" src="https://github.com/user-attachments/assets/7b4a8cb2-1fb8-4a97-a604-6ede66c4fb95" />
+
 
 ### Jika memilih selain "y" dan "n"
 
-<img width="459" height="293" alt="Screenshot 2025-09-09 081507" src="https://github.com/user-attachments/assets/d37b829f-6487-43b5-93ef-7014daf989c8" />
+<img width="470" height="282" alt="Screenshot 2025-09-09 130125" src="https://github.com/user-attachments/assets/85249312-528a-48ab-a541-6b516fda71d6" />
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
