@@ -112,7 +112,7 @@ Program akan menampilkan data lama seperti nama barang, kategori, asal, tahun pe
 
 <img width="1012" height="448" alt="Screenshot 2025-09-08 135110" src="https://github.com/user-attachments/assets/4fd7c124-d5a7-4b33-a555-667234657b95" />
 
-Setelah proses update selesai, pengguna dapat melihat daftar koleksi untuk memastikan bahwa data sudah diperbarui sesuai dengan input terbaru dengan ketik opsi 2. Tabel akan menampilkan kondisi data terbaru dengan informasi yang sudah diperbarui.
+Setelah memperbarui data, pilih menu 2 (Tampilkan Semua Barang) untuk mengecek hasilnya. Daftar koleksi akan menampilkan informasi terbaru—termasuk perubahan pada nama, kategori, kondisi, dan kolom lainnya sehingga pengguna bisa memastikan update yang telah dilakukan sebelumnya sudah tersimpan dengan benar.
 
 ### Jika Input ID yang tidak terdaftar
 
