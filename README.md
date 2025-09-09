@@ -171,7 +171,7 @@ Fitur ini dipakai untuk menemukan data dengan cepat. Cukup ketik kata kunci di k
 
 <img width="985" height="160" alt="Screenshot 2025-09-08 135635" src="https://github.com/user-attachments/assets/c4ed5f05-4cb8-4bc5-b222-006758a175b3" />
 
-Pengguna ingin mencari 
+Pengguna ingin mencari barang berdasarkan nama. Pada kolom Kata kunci, pengguna mengetik “Gucci” lalu menekan Enter. Sistem kemudian menampilkan semua barang yang namanya mengandung kata tersebut.
 
 ### Cari Berdasarkan Kategori
 
