@@ -201,6 +201,10 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 <img width="469" height="267" alt="Screenshot 2025-09-08 180501" src="https://github.com/user-attachments/assets/b048a346-3760-48af-a366-ccae8644978f" />
 
+### Jika memilih selain "y" dan "n"
+
+<img width="459" height="293" alt="Screenshot 2025-09-09 081507" src="https://github.com/user-attachments/assets/d37b829f-6487-43b5-93ef-7014daf989c8" />
+
 
 # Jika user input selain opsi 1-7
 
