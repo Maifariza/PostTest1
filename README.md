@@ -173,13 +173,20 @@ Fitur ini dipakai untuk menemukan data dengan cepat. Cukup ketik kata kunci di k
 
 Pengguna ingin mencari barang berdasarkan nama. Pada kolom Kata kunci, pengguna mengetik “Gucci” lalu menekan Enter. Sistem kemudian menampilkan semua barang yang namanya mengandung kata tersebut.
 
+
+
 ### Cari Berdasarkan Kategori
 
 <img width="982" height="164" alt="Screenshot 2025-09-08 140013" src="https://github.com/user-attachments/assets/1bf6b9e3-8601-4e41-b86a-86120259a3b4" />
 
+Pengguna ingin mencari berdasarkan kategori. Pada kolom Kata kunci, pengguna mengetik “Patung” lalu menekan Enter. Sistem akan menampilkan semua barang dengan kategori yang mengandung kata tersebut.
+
+
 ### Cari Berdsarkan Asal
 
 <img width="983" height="160" alt="Screenshot 2025-09-08 140157" src="https://github.com/user-attachments/assets/fd2e8cac-0609-4615-a806-3ff43b1d94de" />
+
+Pengguna ingin mencari berdasarkan asal barang. Di kolom Kata kunci, pengguna mengetik “Jepang” lalu menekan Enter. Sistem akan menampilkan semua barang yang asalnya dari Jepang.
 
 ### Input Kata Kunci yang tidak terdaftar
 
