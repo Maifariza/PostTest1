@@ -211,17 +211,21 @@ Setelah itu, pengguna akan diminta mengetik ulang sampai mengisi kata kunci yang
 
 <img width="462" height="294" alt="Screenshot 2025-09-09 130258" src="https://github.com/user-attachments/assets/a97dda3e-362e-4a05-ad42-5d8d46a551bd" />
 
+Saat pengguna memilih menu 6 lalu mengetik y pada konfirmasi, maka program akan tertutup dan menampilkan pesan “Terima kasih Telah Menggunakan Program AntikAesthetic!!”.
 
 ### Jika memilih "n"
 
 <img width="469" height="283" alt="Screenshot 2025-09-09 130223" src="https://github.com/user-attachments/assets/7b4a8cb2-1fb8-4a97-a604-6ede66c4fb95" />
 
-Proses keluar dibatalkan. Program menampilkan pesan “<< Kembali ke menu utama AntikAesthetic >>” dan pengguna kembali ke menu utama.
+Proses keluar dibatalkan. Program akan menampilkan pesan “<< Kembali ke menu utama AntikAesthetic >>” dan pengguna kembali ke menu utama.
 
 ### Jika memilih selain "y" dan "n"
 
 <img width="470" height="282" alt="Screenshot 2025-09-09 130125" src="https://github.com/user-attachments/assets/85249312-528a-48ab-a541-6b516fda71d6" />
 
+Setelah pengguna memilih menu 6, sistem akan meminta konfirmasi (y/n). Jika yang diketik bukan y atau n (misalnya i), input dianggap tidak valid dan proses keluar dibatalkan. 
+
+Program menampilkan pesan “<< Kembali ke menu utama AntikAesthetic >>” lalu meminta pengguna menekan Enter untuk kembali ke menu utama.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -230,6 +234,7 @@ Proses keluar dibatalkan. Program menampilkan pesan “<< Kembali ke menu utama 
 <img width="457" height="254" alt="Screenshot 2025-09-09 125912" src="https://github.com/user-attachments/assets/67ec9884-670c-462b-8dd6-cbb210c67051" />
 
 Menu utama hanya menerima angka 1–6.
+
 Jika pengguna memasukkan angka di luar rentang itu atau karakter lain, sistem menampilkan “Pilihan tidak valid.” kemudian meminta menekan Enter untuk kembali ke menu.
 
 
