@@ -177,35 +177,7 @@ Pesan ini berfungsi sebagai validasi agar pengguna mengetahui bahwa ID yang dima
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **Jika memilih opsi 6 maka akan diarahkan ke Filter Barang**
-
-## Kategori
-
-<img width="852" height="263" alt="Screenshot 2025-09-08 184519" src="https://github.com/user-attachments/assets/b28a84f8-ef17-479b-8c00-51bc1a5cab11" />
-
-
-### Inputan tidak sesuai
-
-<img width="344" height="204" alt="Screenshot 2025-09-08 184024" src="https://github.com/user-attachments/assets/12c836ac-395e-4407-aabc-bcbb00f111e6" />
-
-
-## Kondisi
-
-<img width="872" height="297" alt="Screenshot 2025-09-08 184615" src="https://github.com/user-attachments/assets/559fc944-9810-419f-b121-1601aeb193db" />
-
-
-## Tahun
-
-<img width="858" height="276" alt="Screenshot 2025-09-08 220736" src="https://github.com/user-attachments/assets/934c90fc-26a7-4291-b617-a99fecfe2600" />
-
-
-## Sumber
-
-<img width="857" height="308" alt="Screenshot 2025-09-08 220938" src="https://github.com/user-attachments/assets/df5770dd-3267-4ce8-a487-24d495403959" />
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# **Jika memilih opsi 7 maka akan diarahkan Keluar Program AntikAesthetic**
+# **Jika memilih opsi 6 maka akan diarahkan Keluar Program AntikAesthetic**
 
 ### Jika memilih "y"
 
