@@ -2,7 +2,7 @@
 
 ### **Disusun Oleh**
 
-============================================================================================
+===========================================================================
 
                                                                 
 
@@ -14,13 +14,13 @@
 
                                                                
 
-============================================================================================
+===========================================================================
  
 ### **SISTEM MANAJEMEN KOLEKSI BARANG ANTIK**
 
   <h1 align="center">AntikAesthetic 🔎⏳</h1>
     
- ----------------------------------------------------------------------------------------
+ -------------------------------------------------------------------------
  
 
    AntikAesthetic adalah program untuk menyimpan koleksi barang antik yang dibuat menggunakan bahasa pemrograman Java.   Program ini dirancang untuk membantu pengguna dalam mengelola data koleksi barang antik agar lebih teratur, rapi, dan mudah diakses. Dengan adanya program ini, proses pencatatan barang antik tidak lagi dilakukan secara manual, tetapi sudah terkomputerisasi sehingga lebih efisien dan minim kesalahan.
