@@ -31,6 +31,44 @@
 
    Setiap barang antik yang disimpan dalam sistem digambarkan sebagai sebuah objek dengan atribut yang cukup lengkap, mulai dari ID unik, nama barang, kategori, asal, tahun pembuatan, material, kondisi, sumber perolehan, hingga harga perolehan. Seluruh data ini dikelola menggunakan struktur ArrayList, sehingga penyimpanan menjadi lebih fleksibel dan juga memudahkan proses manipulasi data seperti menambah, menampilkan, memperbarui, maupun menghapus.
 
+..............................................................................
+
+# Alur Program AntikAesthetic
+
+Saat pertama kali dijalankan, sistem langsung menyiapkan data awal berupa beberapa barang antik yang otomatis dimasukkan ke dalam koleksi. Setelah itu, pengguna langsung dibawa ke menu utama yang berisi enam pilihan, yaitu tambah barang, tampilkan barang, perbarui barang, hapus barang, cari barang, dan keluar program.
+
+1. **Mulai dan tampilkan menu utama**
+   Setiap kali program berjalan, menu utama akan selalu pertama ditampilkan. Dari sini, pengguna bisa memilih fitur apa yang ingin dilakukan dengan memasukkan angka 1 hingga 6.
+
+2. **Tambah barang baru**
+   Jika pengguna memilih menu tambah barang, sistem akan meminta data barang satu per satu, seperti nama, kategori, asal, tahun pembuatan, material, kondisi, sumber perolehan, dan harga. Input yang diberikan akan divalidasi supaya sesuai dengan aturan (misalnya tahun harus angka antara 0–3000, harga tidak boleh negatif). Setelah semua data diisi dengan benar, barang akan ditambahkan ke koleksi dan ditampilkan pesan bahwa barang berhasil disimpan.
+
+3. **Menampilkan semua barang**
+   Pada menu ini, sistem menampilkan daftar lengkap koleksi barang antik dalam bentuk tabel yang rapi. Jika belum ada barang sama sekali, program akan memberi tahu bahwa data masih kosong.
+
+4. **Memperbarui barang berdasarkan ID**
+   Jika pengguna ingin mengubah data barang, pengguna diminta memasukkan ID barang yang ada. Jika ID ditemukan, setiap data lama akan ditampilkan dalam tanda kurung, dan pengguna bisa memilih untuk menggantinya atau membiarkannya tetap sama. Misalnya, jika kolom nama dikosongkan, maka nama lama akan tetap dipakai. Setelah diperbarui, program menegaskan bahwa perubahan berhasil dilakukan.
+
+5. **Menghapus barang berdasarkan ID**
+   Di menu hapus, pengguna juga perlu memasukkan ID barang. Kalau ID tidak ditemukan, akan muncul pesan bahwa data tidak ada. Jika ID valid, sistem meminta konfirmasi terlebih dahulu. Hanya jika pengguna mengetik “y”, barang benar-benar akan dihapus dari koleksi.
+
+6. **Mencari barang**
+   Fitur ini memungkinkan pengguna mencari barang dengan kata kunci tertentu, baik berdasarkan nama, kategori, atau asal barang. Jika kata kunci ditemukan pada salah satu barang, hasilnya ditampilkan dalam tabel. Kalau tidak ada yang cocok, program menampilkan pesan bahwa tidak ada hasil yang sesuai.
+
+7. **Keluar dari program**
+   Menu terakhir digunakan untuk menutup aplikasi. Sebelum benar-benar keluar, sistem meminta konfirmasi. Kalau pengguna mengetik “y”, program berhenti dengan ucapan terima kasih. Jika tidak, pengguna kembali ke menu utama.
+
+---
+
+Secara garis besar, alurnya selalu berputar di menu utama sampai pengguna memilih opsi keluar. Jadi, pengguna bebas menambahkan, melihat, mengubah, menghapus, atau mencari barang berkali-kali tanpa harus menutup program terlebih dahulu.
+
+---
+
+Mau aku bikinkan versi singkat yang lebih padat buat ditaruh di README GitHub, atau versi detail seperti ini yang lebih cocok jadi laporan?
+
+
+-------------------------------------------------------------------------------
+
 # Menu Utama AntikAesthetic
 
 <img width="468" height="203" alt="Screenshot 2025-09-09 130453" src="https://github.com/user-attachments/assets/d3f33513-9c4f-46f7-b978-f377ab2f1dfd" />
@@ -73,6 +111,14 @@ Setelah semua data selesai diisi, sistem akan otomatis memberikan ID unik untuk 
 <img width="1007" height="546" alt="Screenshot 2025-09-08 133435" src="https://github.com/user-attachments/assets/0ea1f0c7-7433-4deb-96a7-1b9fb458d17d" />
 
 Lalu untuk melihat daftar koleksi yang telah ditambahkan, user ketik 2. Di bagian akhir, program menampilkan instruksi “Tekan Enter untuk melanjutkan…” agar pengguna bisa kembali ke menu utama dan melanjutkan ke fitur lain sesuai kebutuhan.
+
+### Jika Inputan tahun tidak di antara 0 - 3000
+
+<img width="427" height="147" alt="image" src="https://github.com/user-attachments/assets/ebe9b2cd-cf44-43ca-8d08-f4a26d90b381" />
+
+Ketika pengguna mengisi data barang baru, setiap input akan dicek dulu apakah sesuai dengan aturan yang berlaku. Pada contoh di atas, pengguna mencoba memasukkan tahun pembuatan dengan nilai -200. Karena sistem sudah diberi aturan bahwa tahun harus berada dalam rentang 0 sampai 3000, maka input tersebut dianggap tidak valid.
+
+Program kemudian langsung menampilkan pesan peringatan “Harus di antara 0 dan 3000.”. Setelah itu, pengguna diminta kembali untuk mengisi nilai tahun yang benar. 
 
 ### Jika Inputan Kosng
 
