@@ -47,27 +47,27 @@
 
    Input yang diberikan akan divalidasi agar sesuai dengan aturan (misalnya tahun harus angka antara 0–3000, harga tidak boleh negatif). Setelah semua data diisi dengan benar, barang akan ditambahkan ke koleksi dan ditampilkan pesan bahwa barang berhasil disimpan.
 
-4. **Menampilkan semua barang**
+3. **Menampilkan semua barang**
    
    Pada menu ini, sistem menampilkan daftar lengkap koleksi barang antik dalam bentuk tabel yang rapi. Jika belum ada barang sama sekali, program akan memberi tahu bahwa data masih kosong.
 
-5. **Memperbarui barang berdasarkan ID**
+4. **Memperbarui barang berdasarkan ID**
    
    Jika pengguna ingin mengubah data barang, pengguna diminta memasukkan ID barang yang ada. Jika ID ditemukan, setiap data lama akan ditampilkan dalam tanda kurung, dan pengguna bisa memilih untuk menggantinya atau membiarkannya tetap sama.
 
    Misalnya, jika kolom nama dikosongkan, maka nama lama akan tetap dipakai. Setelah diperbarui, program menegaskan bahwa perubahan berhasil dilakukan.
 
-7. **Menghapus barang berdasarkan ID**
+5. **Menghapus barang berdasarkan ID**
    
    Di menu hapus, pengguna juga perlu memasukkan ID barang. Kalau ID tidak ditemukan, akan muncul pesan bahwa data tidak ada. Jika ID valid, sistem meminta konfirmasi terlebih dahulu. Hanya jika pengguna mengetik “y”, barang benar-benar akan dihapus dari koleksi.
 
-8. **Mencari barang**
+6. **Mencari barang**
    
    Fitur ini memungkinkan pengguna mencari barang dengan kata kunci tertentu, baik berdasarkan nama, kategori, atau asal barang. Jika kata kunci ditemukan pada salah satu barang, hasilnya ditampilkan dalam tabel.
 
    Jika tidak ada yang cocok, program menampilkan pesan bahwa tidak ada hasil yang sesuai.
 
-10. **Keluar dari program**
+7. **Keluar dari program**
    
    Menu terakhir digunakan untuk menutup aplikasi. Sebelum benar-benar keluar, sistem meminta konfirmasi. Kalau pengguna mengetik “y”, program berhenti dengan ucapan terima kasih. Jika tidak, pengguna kembali ke menu utama.
 
