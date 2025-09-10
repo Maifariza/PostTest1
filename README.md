@@ -128,7 +128,9 @@ Program kemudian langsung menampilkan pesan peringatan “Harus di antara 0 dan 
 
 <img width="292" height="97" alt="Screenshot 2025-09-08 162201" src="https://github.com/user-attachments/assets/9363c488-0979-4736-81bd-35b5cea66035" />
 
-Apabila pengguna mencoba menambahkan barang baru namun tidak mengisi data pada kolom yang diminta, maka program akan menampilkan pesan peringatan. Misalnya, ketika pengguna menekan Enter tanpa mengetikkan nama barang, sistem akan menampilkan pesan “Input tidak boleh kosong”.
+Apabila pengguna mencoba menambahkan barang baru namun tidak mengisi data pada kolom yang diminta, maka program akan menampilkan pesan peringatan. 
+
+Misalnya, ketika pengguna menekan Enter tanpa mengetikkan nama barang, sistem akan menampilkan pesan “Input tidak boleh kosong”.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -152,6 +154,7 @@ Apabila pengguna mencoba menambahkan barang baru namun tidak mengisi data pada k
 <img width="552" height="311" alt="Screenshot 2025-09-08 134932" src="https://github.com/user-attachments/assets/e332eafe-cdc4-4199-9ef0-b3d102827924" />
 
 Ketika pengguna memilih opsi 3 pada menu utama, maka program akan diarahkan ke fitur Update Barang.
+
 Pada bagian ini, sistem meminta pengguna untuk memasukkan ID dari barang yang ingin diperbarui. ID ini digunakan sebagai penanda unik setiap barang dalam koleksi.
 
 Setelah ID dimasukkan, program akan menampilkan form dengan data lama sebagai referensi. Pengguna dapat mengosongkan input (menekan Enter) jika ingin mempertahankan nilai lama, atau mengetikkan data baru untuk mengganti informasi.
@@ -184,7 +187,9 @@ Saat pengguna mencoba mengetik "iya" di kolom ID, program menolak input tersebut
 
 <img width="336" height="138" alt="Screenshot 2025-09-08 133604" src="https://github.com/user-attachments/assets/90911f05-750a-45dc-865a-bf06fb226e9f" />
 
-Ketika pengguna memilih menu 4, maka akan masuk ke fitur Hapus Barang. Di sini pengguna bisa menghapus data dengan memasukkan ID barang. Setelah ID diketik, sistem akan mengecek ketersediaannya. Jika ID ditemukan, program menampilkan konfirmasi “Yakin hapus ID ... (y/n)?” .
+Ketika pengguna memilih menu 4, maka akan masuk ke fitur Hapus Barang. Di sini pengguna bisa menghapus data dengan memasukkan ID barang. Setelah ID diketik, sistem akan mengecek ketersediaannya. 
+
+Jika ID ditemukan, program menampilkan konfirmasi “Yakin hapus ID ... (y/n)?” .
 
 ### Jika Input "n"
 
